@@ -1,0 +1,60 @@
+@import 'https://fonts.googleapis.com/css?family=Oswald';
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  font-size: 60px;
+  color: #d5f3f5;
+}
+
+.name {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 25px;
+  margin: 0 auto;
+  display: block;
+  color: #d5f3f5;
+  margin-top: 50px;
+  text-decoration: none;
+}  
+  
+body {
+  background-image: url('http://images.akamai.steamusercontent.com/ugc/30716081835941304/DC2E25EEFD98A3E54FB3D6321F37B3034C44FB49/');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+ 
+.playbutton {
+  font-family: 'Oswald', sans-serif;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  margin-top: 370px;
+  font-size: 70px;
+  
+}
+
+.playlink {
+  text-decoration: none;
+  color: #a2b9ba;
+  background: #d5f3f5;
+  border: 9px solid #a2b9ba;
+  border-radius: 25px;
+  padding: 20px; 
+  width: 150px;
+  height: 150px; 
+  
+}
+
+.playlink:hover { 
+  background-color: #e1f6f7;
+   width: 250px;
+    box-shadow: 0 4px 8px 0 #282828, 0 6px 20px 0 #282828;
+    text-align: center;
+
+    
+}
+  
